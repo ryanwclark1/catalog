@@ -1,0 +1,39 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "whisparr": {
+            "app_readme": "<p>A media thingy.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/whisparr\">https://truecharts.org/charts/stable/whisparr</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "Downloaders",
+                "MediaApp-Other"
+            ],
+            "description": "A media thingy.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/whisparr",
+            "location": "/home/runner/work/catalog/catalog/stable/whisparr",
+            "latest_version": "4.0.23",
+            "latest_app_version": "0.1.0.53",
+            "latest_human_version": "0.1.0.53_4.0.23",
+            "last_update": "2023-07-24 20:41:08",
+            "name": "whisparr",
+            "recommended": false,
+            "title": "Whisparr",
+            "maintainers": [
+                {
+                    "email": "info@truecharts.org",
+                    "name": "TrueCharts",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/truecharts/charts/tree/master/charts/stable/whisparr",
+                "https://github.com/onedr0p/containers/tree/main/apps/whisparr"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/whisparr.png"
+        }
+    }
+}
